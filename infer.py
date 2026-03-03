@@ -1,7 +1,7 @@
 import cv2
 from ultralytics import YOLO
 
-MODEL_PATH = "/home/hiepnd72/Documents/work/blocked/best.pt"  
+MODEL_PATH = "/home/hiepnd72/Documents/work/blocked/models/20260303_best_logo_640n.pt"  
 INPUT_VIDEO = "/home/hiepnd72/Documents/work/blocked/logo3232/logo/Bản sao của App10_ Mincraft4_170924_9.16.mp4"
 OUTPUT_VIDEO = "output.mp4"
 
